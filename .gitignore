@@ -30,3 +30,5 @@ Thumbs.db
 # 개인 환경 설정 및 비밀 정보
 .env
 .env.*
+
+*_solution.ipynb
